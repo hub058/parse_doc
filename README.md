@@ -1,6 +1,6 @@
 # parse_doc
 
-A new Flutter project.
+上传WORD文档 并解析出文字和图片
 
 ## Getting Started
 
